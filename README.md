@@ -31,8 +31,7 @@ Il s’appuie sur un jeu de données médicales simulées concernant des patient
 - Adapter les **actions de santé publique par genre et âge**
 
 ## 👤 Réalisé par
-**[Ton prénom NOM]**  
-Promo **TA/2025**
+**[Nezlioui idir]**  
 
 ---
 
